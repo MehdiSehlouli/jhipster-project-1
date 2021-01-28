@@ -21,6 +21,7 @@ import java.util.Set;
 
 /**
  * A user.
+ * modification here
  */
 @Entity
 @Table(name = "jhi_user")
